@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 🌱 Stack
+- Javascript
+- Typescript
+- React
+- Next.js
+- Graphql
+- Python
+- Java
 <!--
 **jsb17/jsb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
